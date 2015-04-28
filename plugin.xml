@@ -10,7 +10,7 @@
   <engines>
     <engine name="cordova" version=">=3.0.0" />
   </engines>
-  <info>PLUGIN IS DEPRECTATED: android.support.v7-mediarouter
+  <info>PLUGIN IS DEPRECATED: android.support.v7-mediarouter
 Plugins that require support libraries should instead use:
 
     <framework src="com.android.support:mediarouter-v7:+" />
